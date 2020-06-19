@@ -57,7 +57,6 @@ export default Vue.extend({
   },
   head() {
     return {
-      title: 'JSON格式化',
       meta: [
         {
           hid: 'keywords',
@@ -104,6 +103,7 @@ export default Vue.extend({
       min-height: 32px;
       padding: 4px 11px;
       font-size: 16px 24px;
+      margin-bottom: 0;
       @s wrong {
         white-space: pre-wrap; /* css-3 */
         word-wrap: break-word; /* Internet Explorer 5.5+ */
