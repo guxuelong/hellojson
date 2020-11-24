@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "ant-design-vue": "^1.1.10",
-    "highlight.js": "^10.1.1",
+    "highlight.js": "^10.1.2",
     "json-lint": "^0.1.0",
     "nuxt": "^2.0.0",
     "postcss-salad": "^2.0.1"
